@@ -1,0 +1,10 @@
+# Ignore downloaded and produced data to avoid storing on Git
+*.rds
+*.nc
+*.shp
+*.shx
+*.geojson
+*.dbf
+*.prj
+*.csv
+*.parquet
